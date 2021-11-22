@@ -1,0 +1,17 @@
+
+thead {
+    background-color: 	#76B900;
+    color: white;
+}
+
+#Students {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    box-shadow: 10px 10px 5px gray;
+}
+
+#Students td, #Students th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
