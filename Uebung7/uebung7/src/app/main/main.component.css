@@ -1,0 +1,21 @@
+thead {
+    background-color: 	#76B900;
+    color: white;
+}
+
+button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #76B900;
+    width: 100%;
+    color: white;
+}
+
+div {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: #76B900;
+    height: 150px;
+    text-align: center;
+    color: white;
+}
